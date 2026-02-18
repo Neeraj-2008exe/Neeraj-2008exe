@@ -1,42 +1,138 @@
-# Hi there, I'm Krishna Neeraj! 👋
+<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e7ff,100:ff6ec7&height=220&section=header&text=Krishna%20Neeraj&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Aspiring%20Developer%20%26%20Student%20🚀&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
-## About Me
-I'm a BTech CSE Student at SRM AP, specializing in Big Data Analytics. I'm passionate about exploring Game Development and Interactive Systems. Currently diving into the world of programming and data-driven solutions.
+<!-- ═══════════════════════  TYPING SVG  ═══════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=550&lines=CSE%20Student%20%7C%20Aspiring%20Developer;C%20Programmer%20%7C%20Big%20Data%20Enthusiast;Exploring%20Game%20Development%20%26%20Interactive%20Systems;Open%20to%20Learn%20%26%20Collaborate%20✨" alt="Typing SVG" />
+</p>
 
-- 🌍 Based in India
-- 🎓 Studying Computer Science Engineering
-- 📊 Interested in Big Data Analytics
-- 🎮 Exploring Game Development
-- 💻 Learning and building projects in C and beyond
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## My Projects
-Here are some of my recent projects:
+<!-- ═══════════════════════  GIF  ═══════════════════════ -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtiMWw1cGVpZGdjYWlxa2o3cW81Xp1ZWdkeWg0M2QydDBpbWF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
+</p>
 
-### [Student-Managment-System](https://github.com/Neeraj-2008exe/Student-Managment-System)
-A student management system implemented in C. (Description coming soon!)
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### [Simple-Atm](https://github.com/Neeraj-2008exe/Simple-Atm)
-A simple ATM simulation in C. (Description coming soon!)
+<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
+<h2>🧑‍💻 About Me</h2>
 
-### [Readme.exe-](https://github.com/Neeraj-2008exe/Readme.exe-)
-Hello World! Welcome to my Profile. My first repository on GitHub.
+```yaml
+name: Krishna Neeraj
+located_in: India
+current_focus: BTech CSE Student & Learning Programming
+education: BTech Computer Science Engineering @ SRM AP
+fields_of_interest:
+  - Big Data Analytics
+  - Game Development
+  - Interactive Systems
+currently_learning:
+  - C Programming
+  - Data Structures
+  - Algorithms
+hobbies:
+  - Coding Projects
+  - Exploring Technology
+  - Gaming
+```
 
-## Skills & Technologies
-- **Languages**: C
-- **Interests**: Big Data Analytics, Game Development, Interactive Systems
-- **Tools**: Git, GitHub
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Connect with Me
-- [LinkedIn](https://linkedin.com/in/krishna-neeraj-596051277)
-- [GitHub](https://github.com/Neeraj-2008exe)
+<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
+<h2>🌐 Connect with Me</h2>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neeraj-2008exe&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/Neeraj-2008exe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/krishna-neeraj-596051277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-## Fun Fact
-I'm just getting started on my coding journey and excited to learn and contribute to the open-source community!
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
+<h2>⚡ Tech Stack</h2>
 
-*Feel free to reach out if you'd like to collaborate or chat about tech!*</content>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode&theme=dark" alt="Tech Stack" />
+</div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
+<h2>📊 GitHub Statistics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-2008exe&theme=radical">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-2008exe&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-2008exe&show_icons=true&theme=radical&hide_border=true&border_radius=12&cache_seconds=86400" alt="Neeraj's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Neeraj-2008exe&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neeraj-2008exe&theme=radical" alt="Repos per Language" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neeraj-2008exe&theme=radical" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neeraj-2008exe&theme=radical" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neeraj-2008exe&theme=radical" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph -->
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-2008exe&theme=react-dark&hide_border=true&area=true">
+    <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-2008exe&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
+</div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════  PROFILE VIEWS  ═══════════════════════ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neeraj-2008exe&label=Profile%20Views&color=00e7ff&style=for-the-badge&logo=star" alt="Profile Views" />
+</p>
+
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e7ff,100:ff6ec7&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by — let's build something great. ✨</b>
+</p></content>
 <parameter name="filePath">c:\Users\neera\OneDrive\Desktop\readme\README.md
