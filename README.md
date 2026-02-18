@@ -44,6 +44,29 @@ hobbies:
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════  MY PROJECTS  ═══════════════════════ -->
+<h2>🚀 My Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Neeraj-2008exe/Student-Managment-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj-2008exe&repo=Student-Managment-System&theme=radical" alt="Student-Managment-System" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Neeraj-2008exe/Simple-Atm">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj-2008exe&repo=Simple-Atm&theme=radical" alt="Simple-Atm" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 <h2>🌐 Connect with Me</h2>
 
